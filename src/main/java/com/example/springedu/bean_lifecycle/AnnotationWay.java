@@ -1,4 +1,4 @@
-package com.example.springedu.beanlifecycle;
+package com.example.springedu.bean_lifecycle;
 
 import jakarta.annotation.PostConstruct;
 import jakarta.annotation.PreDestroy;

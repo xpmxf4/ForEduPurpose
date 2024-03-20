@@ -1,4 +1,4 @@
-package com.example.springedu.beanlifecycle;
+package com.example.springedu.bean_lifecycle;
 
 import lombok.extern.slf4j.Slf4j;
 

@@ -1,6 +1,6 @@
-package com.example.springedu.beanlifecycle.config;
+package com.example.springedu.bean_lifecycle.config;
 
-import com.example.springedu.beanlifecycle.ConfigWay;
+import com.example.springedu.bean_lifecycle.ConfigWay;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
